@@ -1,0 +1,12 @@
+{
+  "url": "https://grabo.bg/",
+  "browser": "chrome",
+  "xpath_email":  "/html/body/div[7]/div[1]/div[1]/div[1]/div[1]/div/div[3]/form/table/tbody/tr[1]/td[2]/input",
+  "xpath_password":  "/html/body/div[7]/div[1]/div[1]/div[1]/div[1]/div/div[3]/form/table/tbody/tr[2]/td[2]/input",
+  "xpath_login_btn":  "/html/body/div[7]/div[1]/div[1]/div[1]/div[1]/div/div[3]/form/table/tbody/tr[3]/td[2]/a",
+  "component_on_home_page": "/html/body/div[2]/div/div/div[2]/div[1]/div[1]/a/span/img",
+  "xpath_forgotten_pass_button": "/html/body/div[7]/div[1]/div[1]/div[1]/div[1]/div/div[3]/form/table/tbody/tr[5]/td[2]/div/a[1]",
+  "forgotten_pass_popup_invalid_email": "/html/body/div[7]/div[1]/div[1]/div[1]/div[1]/div/div[3]/div/div",
+  "forgotten_pass_popup_valid_email": "/html/body/div[7]/div[1]/div[1]/div[1]/div[1]/div/div[2]/div/div",
+  "forgotten_pass_send_email_button": "/html/body/div[7]/div[1]/div[1]/div[1]/div[1]/div/div[3]/form/table/tbody/tr[2]/td[2]/a"
+}
